@@ -1,7 +1,7 @@
-package com.yogaraj.series.BO.controller;
+package com.yogaraj.series.controller;
 
 import com.yogaraj.series.BO.CalcBo;
-import com.yogaraj.series.BO.DTO.CalcDTO;
+import com.yogaraj.series.DTO.CalcDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

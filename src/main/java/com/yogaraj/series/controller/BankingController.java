@@ -1,8 +1,8 @@
-package com.yogaraj.series.BO.controller;
+package com.yogaraj.series.controller;
 
 import com.yogaraj.series.BO.BankingBo;
-import com.yogaraj.series.BO.DTO.BankingDto;
-import com.yogaraj.series.BO.DTO.ResponseDTO;
+import com.yogaraj.series.DTO.BankingDto;
+import com.yogaraj.series.DTO.ResponseDTO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

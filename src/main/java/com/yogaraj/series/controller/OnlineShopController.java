@@ -1,9 +1,9 @@
-package com.yogaraj.series.BO.controller;
+package com.yogaraj.series.controller;
 
 import com.yogaraj.series.BO.OnlineShopBO;
-import com.yogaraj.series.BO.DTO.OrderDTO;
-import com.yogaraj.series.BO.DTO.ProductDTO;
-import com.yogaraj.series.BO.DTO.ResponseDTO;
+import com.yogaraj.series.DTO.OrderDTO;
+import com.yogaraj.series.DTO.ProductDTO;
+import com.yogaraj.series.DTO.ResponseDTO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

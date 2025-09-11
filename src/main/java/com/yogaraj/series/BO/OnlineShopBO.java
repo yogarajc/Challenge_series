@@ -1,8 +1,8 @@
 package com.yogaraj.series.BO;
 
-import com.yogaraj.series.BO.DTO.OrderDTO;
-import com.yogaraj.series.BO.DTO.ProductDTO;
-import com.yogaraj.series.BO.DTO.ResponseDTO;
+import com.yogaraj.series.DTO.OrderDTO;
+import com.yogaraj.series.DTO.ProductDTO;
+import com.yogaraj.series.DTO.ResponseDTO;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

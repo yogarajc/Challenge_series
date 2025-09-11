@@ -1,9 +1,9 @@
-package com.yogaraj.series.BO.controller;
+package com.yogaraj.series.controller;
 
 import com.yogaraj.series.BO.LoginBo;
-import com.yogaraj.series.BO.DTO.GreetingsDTO;
-import com.yogaraj.series.BO.DTO.LoginDTO;
-import com.yogaraj.series.BO.DTO.ResponseDTO;
+import com.yogaraj.series.DTO.GreetingsDTO;
+import com.yogaraj.series.DTO.LoginDTO;
+import com.yogaraj.series.DTO.ResponseDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.yogaraj.series.BO.DTO;
+package com.yogaraj.series.DTO;
 
 public class BankingDto {
     private String accountId;

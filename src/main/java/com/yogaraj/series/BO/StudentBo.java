@@ -1,7 +1,7 @@
 package com.yogaraj.series.BO;
 
-import com.yogaraj.series.BO.DTO.ResponseDTO;
-import com.yogaraj.series.BO.DTO.StudentDTO;
+import com.yogaraj.series.DTO.ResponseDTO;
+import com.yogaraj.series.DTO.StudentDTO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;

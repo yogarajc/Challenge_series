@@ -1,6 +1,6 @@
 package com.yogaraj.series.BO;
 
-import com.yogaraj.series.BO.DTO.CalcDTO;
+import com.yogaraj.series.DTO.CalcDTO;
 import org.springframework.stereotype.Component;
 
 @Component
